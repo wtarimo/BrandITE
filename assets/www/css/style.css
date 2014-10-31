@@ -1,0 +1,16 @@
+
+.ui-icon-book {
+  background-image: url("images/book.png");
+  background-size: 18px 18px;
+}
+
+.ui-icon-admin {
+  background-image: url("images/admin.png");
+  background-size: 18px 18px;
+}
+.ui-li-twoBubble .ui-li-count {
+    float: right;
+}
+.ui-li-twoBubble .ui-li-count:nth-child(odd) {
+    margin-right: 2em;
+}
